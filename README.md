@@ -6,7 +6,7 @@
 Au commencement, Dieu créa le ciel et la terre. Puis il vous créa, vous, le Créateur, son subordonné. Entre les hommes, les créatures mythologiques, les demi-dieux et la nature,  fondez votre domaine comme vous l’entendez et laissez le destin faire le reste si dieu le veut  !
 CONTRÔLES
 
-CONTRÔLES DU JOUEUR (Clavier):
+<ins>CONTRÔLES DU JOUEUR (Clavier):</ins>
 
 ZQSD, Haut Bas Gauche Droite ou mettre la souris sur les bords de l’écran : déplacer la caméra.
 
@@ -18,7 +18,7 @@ roulette: Zoomer.
 
 Barre d’espace: Recentrer la caméra sur l’objet sélectionné.
 
-CAMÉRA
+<ins>CAMÉRA:</ins>
 
 La caméra est une caméra STR classique.
 Les limites de la caméra en termes de déplacement sont les bordures propres à chaque niveau.
@@ -29,7 +29,7 @@ LA ROUE DU CRÉATEUR
 La roue du créateur est une interface à laquelle on peut accéder en appuyant sur E.
 C’est à travers elle que le joueur peut façonner le monde comme il l'entend grâce à différentes fonctionnalités:
 
-1 Eléments naturels :
+1-Eléments naturels :
 Créer des arbres
 Créer des plantes
 Créer des pierres
@@ -37,7 +37,7 @@ Modifier sol
 Génération:
 Pour générer ces éléments, le joueur dispose d’un spawner modelable (voir exercice spawn tool) qui permet de générer en masse en clippant au terrain.
 
-2 Architecture:
+2-Architecture:
 Pylones
 Hôtels
 Temples
@@ -45,25 +45,25 @@ Génération:
 Pour générer ces éléments, le joueur dispose d’un spawner modelable (voir exercice spawn tool) qui permet de générer à l’unité en clippant au terrain.
 le terrain doit avoir une surface plane correspondante à la surface nécessaire pour l’architecture en question.
 
-3 Êtres vivants:
+3-Êtres vivants:
 Créatures terrestres
 Humains
 Créatures Mythologiques
 Génération:
 Pour générer ces éléments, le joueur dispose d’un spawner modelable (voir exercice spawn tool) qui permet de générer à l’unité ou en masse en clippant au terrain.
                   
-4 Relief :
+4-Relief :
 Modifier la hauteur/profondeur.
 Génération:
 Applique une déformation sur le terrain.
 
-5 Point d’eau:
+5-Point d’eau:
 Eau de source
 Eau de Mer
 Génération:
 Applique applique un layer sur le terrain.
 
-DÉROULEMENT
+<ins>DÉROULEMENT:</ins>
 
 Le jeu commence dans le menu principal et vous demande de créer une nouvelle partie ou de quitter.
  
@@ -84,7 +84,7 @@ Le fait d’avoir un nouvel élément qui apparaît dans votre jardin vous perme
 Libre a vous d’essayer de faire de votre jardin un havre de paix, ou l’enfer sur terre.
 
 
-CONDITIONS D’APPARITION
+<ins>CONDITIONS D’APPARITION:</ins>
 
 Les conditions d’apparitions sont prédéfinies pour chaque objet du jeu, et lorsque celles- ci sont remplies, cela génère un nombre prédéfinie de l’objet en question.
 
@@ -96,7 +96,7 @@ une année dépassée
 
 
 
-LES ÊTRES VIVANTS
+<ins>LES ÊTRES VIVANTS:</ins>
 
 Les êtres vivants sont des entités autonomes qui parcourent votre monde.
 
@@ -164,15 +164,6 @@ Ces caractéristiques peuvent varier d’un être vivant à l’autre en fonctio
 Chaque être vivant dispose d’un périmètre de détection, en fonction de son type, qui définit si les conditions liées au caractéristiques innées sont bonnes ou pas au moment T. C’est grâce à ce périmètre que certaines conditions d’apparitions sont remplies.
 
 
-
-
-
-
-
-
-
-
-
 Influences:
 
 Les êtres vivants sont le fruit de leur environnement, et leur vie devient unique en fonction de leur vécu. Ils peuvent influer sur la flore environnante, autant que la flore peut influer sur eux.
@@ -205,7 +196,7 @@ Si les bonnes civilisations sont entourées de la bonne faune ou de la bonne flo
 
 
 
-LES ÉLÉMENTS NATURELS & LES ARCHITECTURES
+<ins>LES ÉLÉMENTS NATURELS & LES ARCHITECTURES:</ins>
 
 Ce sont les éléments naturels qui vont être à la base de la faune et de la flore. En changer la composition peut bouleverser des facteurs cruciaux.
 
