@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b9e8ecc9c824047969d75de67bce2b, type: 3}
+  m_Name: CreatureTool
+  m_EditorClassIdentifier: 
+  <Actions>k__BackingField:
+    pairs:
+    - key: Animal
+      myValue:
+      - {fileID: 11400000, guid: 2cc0a4d7491a6fa43b9b4d1f15abfde2, type: 2}
+      - {fileID: 11400000, guid: 2978f61c42a73904badd6147cfb81a7b, type: 2}
+      - {fileID: 11400000, guid: de7cfaf66419d7044bcffc2730d461a2, type: 2}
+      - {fileID: 11400000, guid: 05826e23b2aefd840a7a93503ba97595, type: 2}
+      - {fileID: 11400000, guid: 19e1925ba2356944f8172cd740eb2b46, type: 2}
+      - {fileID: 11400000, guid: 75ad7d1f82a13034e8cbde52a7c7d8b0, type: 2}
+      - {fileID: 11400000, guid: 88de50f4cb3497a49809edca02708370, type: 2}
+    - key: Dinosaurs
+      myValue:
+      - {fileID: 11400000, guid: 780bb87947930e24690a73daf788006d, type: 2}
+      - {fileID: 11400000, guid: 648c7800eeb95db468693d9ae9e6760a, type: 2}
+      - {fileID: 11400000, guid: ef5c9f54b85f21140bc106c7240b5174, type: 2}
+      - {fileID: 11400000, guid: 22309ed4208f2d543a842285bb2ca413, type: 2}
+      - {fileID: 11400000, guid: 85ca54de351ecc84d8aeacf6fb27f45a, type: 2}
+      - {fileID: 11400000, guid: b5583b5ea7ac0a241854f2748447a558, type: 2}
+  <Icon>k__BackingField: {fileID: 2800000, guid: 40b8e0b8150279048b7d9d500623b982,
+    type: 3}

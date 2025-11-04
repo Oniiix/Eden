@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d009060dd783c142b6002951b2343eb, type: 3}
+  m_Name: SheepCaracteristics
+  m_EditorClassIdentifier: 
+  <Age>k__BackingField:
+    <VarName>k__BackingField: age
+    <CurrentValue>k__BackingField: 0
+    <MaxValue>k__BackingField: 100
+    <MinValue>k__BackingField: 0
+  <Distance>k__BackingField: 20
+  <Habitats>k__BackingField: 
+  <ElementType>k__BackingField: 0
+  thirst:
+    <VarName>k__BackingField: thirst
+    <CurrentValue>k__BackingField: 50
+    <MaxValue>k__BackingField: 100
+    <MinValue>k__BackingField: 0
+  <ThirstLimit>k__BackingField: 20
+  life:
+    <VarName>k__BackingField: life
+    <CurrentValue>k__BackingField: 30
+    <MaxValue>k__BackingField: 100
+    <MinValue>k__BackingField: 0
+  hunger:
+    <VarName>k__BackingField: hunger
+    <CurrentValue>k__BackingField: 50
+    <MaxValue>k__BackingField: 100
+    <MinValue>k__BackingField: 0
+  <HungerLimit>k__BackingField: 20
+  <DietType>k__BackingField: 1

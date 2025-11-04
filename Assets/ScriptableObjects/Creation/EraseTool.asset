@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b9e8ecc9c824047969d75de67bce2b, type: 3}
+  m_Name: EraseTool
+  m_EditorClassIdentifier: 
+  <Actions>k__BackingField:
+    pairs:
+    - key: Erase
+      myValue:
+      - {fileID: 11400000, guid: d668a7d751b9eb34c947b6cad6e47e68, type: 2}
+      - {fileID: 11400000, guid: 7dd7cb493adfb3545937afb85ac272dc, type: 2}
+  <Icon>k__BackingField: {fileID: 2800000, guid: 8c446a18811b8f04ca259705cd3abb44,
+    type: 3}

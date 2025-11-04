@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ccc51c2e391bd9408163fcbad0ce50c, type: 3}
+  m_Name: WaitForTransition
+  m_EditorClassIdentifier: 
+  fsm: {fileID: 0}
+  NextState: {fileID: 11400000, guid: 029338086cac26f43952e78f15fb1b10, type: 2}
+  SearchResourcesState: {fileID: 11400000, guid: 438a5a6833ceb1e4f925538e96b028d4,
+    type: 2}
+  SearchFoodState: {fileID: 11400000, guid: e26298dfb5edbaf46807e04ccf6e4868, type: 2}
+  SearchWaterState: {fileID: 11400000, guid: 9847bc6ef4d190b45833a05430ee6f82, type: 2}
+  timerEnd: 3

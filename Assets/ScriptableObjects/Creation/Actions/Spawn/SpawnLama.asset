@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0f6a3f2632d7504c909b660270aa59a, type: 3}
+  m_Name: SpawnLama
+  m_EditorClassIdentifier: 
+  layer:
+    serializedVersion: 2
+    m_Bits: 128
+  <ActionName>k__BackingField: Lama
+  data: {fileID: 11400000, guid: b986b347fe817844d885781c0f4fdd0e, type: 2}
+  <SpawnElement>k__BackingField: {fileID: 3469526647496315488, guid: 7dd8406bfe0be094cbf9864248fd9891,
+    type: 3}
+  offset: 0
+  rotateOffset: 0
+  size: 1

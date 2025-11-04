@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b9e8ecc9c824047969d75de67bce2b, type: 3}
+  m_Name: NaturalTool
+  m_EditorClassIdentifier: 
+  <Actions>k__BackingField:
+    pairs:
+    - key: Nature
+      myValue:
+      - {fileID: 11400000, guid: e27e44942bf481e468e21d7b2e48329e, type: 2}
+      - {fileID: 11400000, guid: c89994ba70e6f12449fcc45d48e1842a, type: 2}
+      - {fileID: 11400000, guid: ce928127a9e52f54487bcce5a3159826, type: 2}
+      - {fileID: 11400000, guid: 8e151545d0451d946b980a47a8317f85, type: 2}
+      - {fileID: 11400000, guid: 8acc1e2425fa94f4c8dfbb57b1270c02, type: 2}
+    - key: Ground
+      myValue:
+      - {fileID: 11400000, guid: 52ca31758fe82f0429c19998c3ac4683, type: 2}
+      - {fileID: 11400000, guid: 10dc8444a2b36da48b109d8c6995c706, type: 2}
+      - {fileID: 11400000, guid: 3903e593a36b5404c84619254ee8c0cd, type: 2}
+      - {fileID: 11400000, guid: 1cc231db196fda94aa5448ee6282d6fd, type: 2}
+      - {fileID: 11400000, guid: 8dd2582907cafbe4f82fb1bd6edb4492, type: 2}
+      - {fileID: 11400000, guid: be3526d452326394a8b8e03608bd751f, type: 2}
+  <Icon>k__BackingField: {fileID: 2800000, guid: 40e870bd504d36f48b862092f22f5d54,
+    type: 3}
