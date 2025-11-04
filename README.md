@@ -1,5 +1,4 @@
-# Eden
-Eden’s Project
+## Eden's Project
 
 Genre:  gestion
 
